@@ -1,12 +1,12 @@
-# revision 31448
+# revision 33176
 # category Package
 # catalog-ctan /macros/latex/contrib/biblatex-contrib/biblatex-publist
-# catalog-date 2013-08-16 15:58:19 +0200
+# catalog-date 2014-03-14 11:11:58 +0100
 # catalog-license lppl1.3
-# catalog-version 0.8
+# catalog-version 0.9
 Name:		texlive-biblatex-publist
-Version:	0.8
-Release:	5
+Version:	0.9
+Release:	1
 Summary:	BibLaTeX bibliography support for publication lists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-publist

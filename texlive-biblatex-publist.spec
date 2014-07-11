@@ -6,7 +6,7 @@
 # catalog-version 0.9
 Name:		texlive-biblatex-publist
 Version:	0.9
-Release:	2
+Release:	3
 Summary:	BibLaTeX bibliography support for publication lists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-publist

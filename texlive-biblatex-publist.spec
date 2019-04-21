@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-publist
-Version:	1.10
-Release:	2
+Version:	1.16
+Release:	1
 Summary:	BibLaTeX bibliography support for publication lists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-publist

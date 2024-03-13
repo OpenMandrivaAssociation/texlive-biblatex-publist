@@ -1,5 +1,5 @@
 Name:		texlive-biblatex-publist
-Version:	68476
+Version:	70515
 Release:	1
 Summary:	BibLaTeX bibliography support for publication lists
 Group:		Publishing

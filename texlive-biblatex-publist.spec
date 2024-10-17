@@ -3,7 +3,7 @@ Version:	72079
 Release:	1
 Summary:	BibLaTeX bibliography support for publication lists
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-publist
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-publist
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-publist.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-publist.doc.r%{version}.tar.xz
